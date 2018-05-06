@@ -1,3 +1,3 @@
 function getFirstSelector(selector){
-  document.querySelector('.ranked-list')
+  return document.querySelector(selector)
 }
